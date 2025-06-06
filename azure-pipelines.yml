@@ -1,5 +1,5 @@
 pool:
-  name: 'Azure piplines'
+  name: 'Azurepipeline'
 
 stages:
 - stage: Deploy
